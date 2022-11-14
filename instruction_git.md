@@ -65,7 +65,9 @@
 
     показывает разницу между текущим файлом и сохраненным
 
-    git diff 'hash1' 'hash2' 
+*git diff 'hash1' 'hash2'*
 
-    git checkout 'hash'
+    Показывает разницу между комитами
+
+*git checkout 'hash'*
     git checkout master
