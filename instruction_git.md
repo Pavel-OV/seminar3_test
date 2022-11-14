@@ -25,3 +25,25 @@
 
     git commit
 
+
+## Домашнее задание
+
+*git status* 
+
+    Команда Показывает текущее состояние гита, есть ли изменения, которые нужно закоммитить (сохранить)
+
+git commit -m "сообщение" 
+git commit -a
+git commit -am "Сообщение"
+
+
+    git log 
+    git log --oneline
+    git log --all
+    git log --all --oneline
+
+    git diff
+    git diff 'hash1' 'hash2' 
+
+    git checkout 'hash'
+    git checkout master
