@@ -70,4 +70,7 @@
     Показывает разницу между комитами
 
 *git checkout 'hash'*
-    git checkout master
+
+    переключение между коммитами
+
+*git checkout master*
