@@ -59,6 +59,8 @@ git log --all
 
 git log --all --oneline
 
+    Показывает весть список коммитов в сокращенном виде 
+
     git diff
     git diff 'hash1' 'hash2' 
 
