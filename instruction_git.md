@@ -53,15 +53,18 @@
 
     Показывает список коммитов в сокращенном списке.
 
-git log --all
+*git log --all*
 
     Показывает список всех коммитов 
 
-git log --all --oneline
+*git log --all --oneline*
 
     Показывает весть список коммитов в сокращенном виде 
 
-    git diff
+*git diff*
+
+    показывает разницу между текущим файлом и сохраненным
+
     git diff 'hash1' 'hash2' 
 
     git checkout 'hash'
