@@ -98,3 +98,5 @@
     git merge <name_branch>
 
 где \<name_branch> имя новой ветки
+
+### Удаление веток
