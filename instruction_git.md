@@ -87,4 +87,4 @@
 
 Что бы создать новую ветку нужно ввести команду 
 
-    git branch
+    git branch <newbranch>
